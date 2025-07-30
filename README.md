@@ -1,2 +1,4 @@
 # QR Code Generator <br>
-### This is python code for generating QR Code 
+### This file contains 2 codes : jupiter notebook and a python file 
+### [QRcode_Generator.ipynb]<https://github.com/Sukanya-29/QRcode_Generator/blob/main/QRcode_Generator.ipynb> has code for qrcode runs in the terminal only. 
+### [mimiproj-qrcode_gui.py]<https://github.com/Sukanya-29/QRcode_Generator/blob/main/miniproj-qrcode_gui.py> has code for qrcode and has graphical interface.
